@@ -4,7 +4,7 @@ import SearchIcon from '@material-ui/icons/Search'
 import HomeIcon from '@material-ui/icons/Home'
 import Avatar from '@material-ui/core/Avatar'
 import IconButton from '@material-ui/core/IconButton'
-import logo from '../Images/BB.png';
+import logo from '../Images/BB1.png';
 
 
 
