@@ -1,0 +1,78 @@
+.bg {
+    display: block;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-top: 100px;
+    background-image: url("../../images/signup.png");
+    height: 775px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.su-logo {
+    height: 50px;
+    align-content: center;
+    margin-left: 43%;
+    margin-right: auto;
+}
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-left: 58px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 17px;
+
+}
+
+.form-popup-su {
+    width: 600px;
+    height: 400px;
+    display: block;
+    position: fixed;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+    margin-left: auto;
+    margin-right: 34%;
+    border-radius: 10px;
+    padding-top: 10px;
+    background-color: white;
+    opacity: 100%;
+    font-family: Arial;
+
+}
+
+.su-text {
+    text-align: center;
+    font-size: 25px;
+}
+
+.form-bg-signup-su{
+    display: block;
+    position: fixed;
+    background-color: white;
+
+
+}
+
+.register-btn-su {
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.footer {
+    font-size: 14px;
+    text-align: center;
+    color: darkgray;
+    font-family: Arial;
+}
